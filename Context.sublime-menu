@@ -2,5 +2,6 @@
 {  
     "id": "selection"
 },
-{ "command": "jump_to_def" } 
+{ "command": "jump_to_def",
+	"caption": "Jump to Definition" } 
 ] 
